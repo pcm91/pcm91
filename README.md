@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pcm91
-- 👀 I’m interested in Infra, Platform, ML
+- 👀 I’m interested in Infra, Platform, ML, AI
 - 🌱 I’m currently learning ... A lot of things
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... slack me @pankaj
+- 💞️ I’m looking to collaborate on ... data projects
+- 📫 How to reach me ... pankaj.mest@gmail.com
 
 <!---
 pcm91/pcm91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
